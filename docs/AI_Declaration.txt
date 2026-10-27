@@ -1,0 +1,60 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Fuad Mohammed Jawad
+Student ID: 23201555
+Assignment: Assignment 1: Creating a Personal Web Page
+Date: 27/10/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✓] ChatGPT
+[ ] GitHub Copilot
+[✓] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✓] Learning/understanding concepts
+[✓] Debugging my code
+[✓] Generating code snippets
+[ ] Writing text content
+[✓] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+AI tools were used as an assistance tool during the development of this personal homepage assignment. I used AI to clarify HTML and CSS concepts, understand assignment requirements, troubleshoot HTML validation issues and receive suggestions for improving table formatting, hover effects and responsive design. AI also helped explain GitHub repository setup and hosting procedures. I reviewed the suggestions and applied relevant changes to my code. I am responsible for reviewing and understanding the final submitted work.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: ______index.html___________ Section: ______Table column merging, Internal CSS styling___________
+File: ______style.css___________ Section: ______Table border styling, Footer Styling, hobbies.html & project.html's card styling___________
+File: ______script.js___________ Section: ______last modified date and year fetching and displaying logics___________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ________Fuad Mohammed Jawad_______________
+Date: _________27/10/2026__________________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
